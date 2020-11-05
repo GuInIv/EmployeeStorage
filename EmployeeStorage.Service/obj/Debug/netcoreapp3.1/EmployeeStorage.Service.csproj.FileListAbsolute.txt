@@ -1,0 +1,12 @@
+E:\documents\exam\ASP.NET\EmployeeStorage\EmployeeStorage.Service\bin\Debug\netcoreapp3.1\EmployeeStorage.Service.deps.json
+E:\documents\exam\ASP.NET\EmployeeStorage\EmployeeStorage.Service\bin\Debug\netcoreapp3.1\EmployeeStorage.Service.dll
+E:\documents\exam\ASP.NET\EmployeeStorage\EmployeeStorage.Service\bin\Debug\netcoreapp3.1\EmployeeStorage.Service.pdb
+E:\documents\exam\ASP.NET\EmployeeStorage\EmployeeStorage.Service\bin\Debug\netcoreapp3.1\EmployeeStorage.DataAccess.dll
+E:\documents\exam\ASP.NET\EmployeeStorage\EmployeeStorage.Service\bin\Debug\netcoreapp3.1\EmployeeStorage.DataAccess.pdb
+E:\documents\exam\ASP.NET\EmployeeStorage\EmployeeStorage.Service\obj\Debug\netcoreapp3.1\EmployeeStorage.Service.csprojAssemblyReference.cache
+E:\documents\exam\ASP.NET\EmployeeStorage\EmployeeStorage.Service\obj\Debug\netcoreapp3.1\EmployeeStorage.Service.AssemblyInfoInputs.cache
+E:\documents\exam\ASP.NET\EmployeeStorage\EmployeeStorage.Service\obj\Debug\netcoreapp3.1\EmployeeStorage.Service.AssemblyInfo.cs
+E:\documents\exam\ASP.NET\EmployeeStorage\EmployeeStorage.Service\obj\Debug\netcoreapp3.1\EmployeeStorage.Service.csproj.CoreCompileInputs.cache
+E:\documents\exam\ASP.NET\EmployeeStorage\EmployeeStorage.Service\obj\Debug\netcoreapp3.1\EmployeeStorage.Service.csproj.CopyComplete
+E:\documents\exam\ASP.NET\EmployeeStorage\EmployeeStorage.Service\obj\Debug\netcoreapp3.1\EmployeeStorage.Service.dll
+E:\documents\exam\ASP.NET\EmployeeStorage\EmployeeStorage.Service\obj\Debug\netcoreapp3.1\EmployeeStorage.Service.pdb
